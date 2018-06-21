@@ -1,6 +1,6 @@
-# gohan/config
+# config
 
-The gohan/config package gets your application config values from different sources
+This config library gets your application config values from different sources
 allowing you to run your app in different environments. 
 
 Config properties are considered in the following order:
